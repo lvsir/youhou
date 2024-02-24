@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    https://github.com/lvsir/youhou
-// @version      2024-02-24
+// @version      2024-02-25
 // @description  try world!
 // @author       lvsir
 // @match        *://*
@@ -13,7 +13,7 @@
 (
     function() {
     'use strict';
-    console.log('hello world')
+    console.log(' NEW　hello world')
 
     // Your code here...
 })
